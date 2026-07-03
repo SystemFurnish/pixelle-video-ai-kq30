@@ -1,4 +1,4 @@
-# 
+# Exclusive Pixelle-Video plugins. Featuring fine-tuning and document-analysis — optimized for maximum performance and efficiency.
 
 
 
